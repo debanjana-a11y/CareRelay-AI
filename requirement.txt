@@ -1,0 +1,5 @@
+deepagents
+langchain_ollama
+langchain-e2b
+slack_sdk
+dotenv

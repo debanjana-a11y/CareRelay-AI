@@ -1,0 +1,13 @@
+Timestamp,Bed_ID,Patient_Name,Age,Diagnosis,Heart_Rate_bpm,Temp_C,BP_Systolic,BP_Diastolic,SpO2_Pct
+2026-11-07 08:00,Bed-101,Aarav Patel,54,Post-Op Appendectomy,76,36.8,122,78,98
+2026-11-07 12:00,Bed-101,Aarav Patel,54,Post-Op Appendectomy,74,36.9,120,76,99
+2026-11-07 16:00,Bed-101,Aarav Patel,54,Post-Op Appendectomy,78,37.0,124,80,98
+2026-11-07 08:00,Bed-102,Rohan Sharma,67,Pneumonia,88,37.4,130,82,95
+2026-11-07 12:00,Bed-102,Rohan Sharma,67,Pneumonia,104,38.5,126,80,93
+2026-11-07 16:00,Bed-102,Rohan Sharma,67,Pneumonia,118,39.4,118,74,91
+2026-11-07 08:00,Bed-103,Ananya Das,41,Acute Gastritis,72,36.7,115,75,99
+2026-11-07 12:00,Bed-103,Ananya Das,41,Acute Gastritis,70,36.8,118,76,99
+2026-11-07 16:00,Bed-103,Ananya Das,41,Acute Gastritis,71,36.7,116,74,99
+2026-11-07 08:00,Bed-104,Meera Nair,73,COPD Exacerbation,84,37.0,138,85,94
+2026-11-07 12:00,Bed-104,Meera Nair,73,COPD Exacerbation,92,37.1,142,88,90
+2026-11-07 16:00,Bed-104,Meera Nair,73,COPD Exacerbation,98,37.2,145,90,88

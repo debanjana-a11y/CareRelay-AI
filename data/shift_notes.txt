@@ -1,0 +1,22 @@
+WARD A - DAY SHIFT HANDOVER LOG (08:00 - 17:00 IST)
+Outgoing Nurse: Nurse Kavita | Incoming Team: Evening Shift
+
+[Bed-101] Aarav Patel (54M) - Post-Op Day 1 Appendectomy
+- Status: Stable. Tolerating clear liquids well, minimal surgical site pain.
+- Meds Given: IV Paracetamol 1g at 09:00, Cefuroxime 750mg at 14:00.
+- Pending Task: Check surgical dressing at 20:00; eligible for discharge tomorrow morning if afebrile.
+
+[Bed-102] Rohan Sharma (67M) - Community-Acquired Pneumonia
+- Status: CRITICAL WATCH. Developed high fever spike (39.4°C) and tachycardia (118 bpm) at 16:00. Chills noted.
+- Meds Given: IV Azithromycin 500mg at 10:00; Paracetamol 650mg PO given at 16:15 for fever.
+- Pending Task: URGENT blood culture draw due at 18:00 before starting second antibiotic. Dr. Sen notified, awaiting review.
+
+[Bed-103] Ananya Das (41F) - Acute Gastritis
+- Status: Stable and resting comfortably. No vomiting since 10:00 AM.
+- Meds Given: Pantoprazole 40mg IV at 08:30, Ondansetron 4mg at 11:00.
+- Pending Task: Transition to oral diet at dinner (19:30) and prepare discharge summary.
+
+[Bed-104] Meera Nair (73F) - COPD Exacerbation
+- Status: HIGH PRIORITY. SpO2 dropped from 94% to 88% on room air by 16:00. Placed on 2L/min nasal cannula oxygen at 16:10.
+- Meds Given: Salbutamol + Ipratropium nebulization at 09:00 and 15:00.
+- Pending Task: Re-check SpO2 and arterial blood gas (ABG) at 18:30. Escalate to ICU consult if SpO2 remains <90% on 2L O2.

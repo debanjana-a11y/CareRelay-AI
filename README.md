@@ -1,10 +1,17 @@
 ## CareRelay-AI
 
-CareRelay is an AI-powered clinical shift handover agent integrated directly into Slack. At the end of a medical shift, the agent ingests raw patient logs, recent vitals, medication schedules, and pending care tasks, then uses a large language model (LLM) to generate structured SBAR (Situation, Background, Assessment, Recommendation) summaries. Built with dedicated input/output validation and observability SDKs, CareRelay checks every summary for missing critical alerts or data anomalies before posting interactive handover cards to the incoming care team's Slack channel—allowing nurses and doctors to review, flag, and acknowledge patient updates in real time.
+CareRelay turns clinical shift handovers into a collaborative, AI-assisted workflow inside Switch Rooms. Connected to Slack/Discord via Switch, the CareRelay agent monitors a shared ward workspace containing synthetic patient logs, vitals, and pending tasks. At shift change, it generates a structured SBAR briefing directly in the team room, answers incoming clinicians' follow-up questions using shared room context, and updates a live handover checklist as nurses and doctors claim and complete critical tasks together.
 
 ## Project Objectives
-- Automate Shift Briefings: Eliminate manual, error-prone handover notes by converting scattered patient logs into standardized SBAR summaries in seconds.
-- Ensure Clinical Safety & Accuracy: Use input/output monitoring SDKs and schema validation to detect abnormal vitals, prevent AI hallucinations, and enforce strict output formatting.
-- Streamline Team Communication: Deliver real-time, actionable patient summaries directly inside Slack where clinical colleagues already collaborate.
-- Create Accountability with Sign-Offs: Enable incoming staff to acknowledge patient handovers or escalate urgent cases with a single button click, logging a clear audit trail.
-- Protect Data Privacy: Enforce automated input filtering so sensitive identifiers are masked or validated before reaching external AI models.
+- Turn Shift Channels into Shared Switch Rooms: Give outgoing staff, incoming staff, and AI agents one shared conversation and workspace context so zero patient details get lost between shifts.
+- Enable Interactive Clinical Q&A & Task Tracking: Allow incoming colleagues to query patient logs, clarify anomalies, and update a live markdown handover checklist directly inside chat.
+- Enforce Safety & Guardrails: Configure strict agent instructions and Switch guardrails so the agent flags abnormal vitals without inventing medical advice and keeps room context isolated to authorized ward channels.
+
+## How to use app
+1. Login to E2B and create an API Key. Export the AI Key in terminal
+
+export E2B_API_KEY="e2b_XXXXX" 
+
+2. python3.11 app.py
+
+3. 
